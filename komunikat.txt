@@ -1,0 +1,1 @@
+Test połączenia z serwerem gitHub.com
